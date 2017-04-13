@@ -1,0 +1,15 @@
+{
+  "name": "nodeAPI",
+  "version": "0.0.1",
+  "description": "Act as API for nodeGrouper",
+  "main": "server.js",
+  "scripts": {
+    "test": "debug"
+  },
+  "author": "Keith Tracy",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2"
+  }
+}

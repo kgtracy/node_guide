@@ -1,0 +1,12 @@
+{
+{
+  "name": "UserSync",
+  "version": "0.0.1",
+  "description": "Fetch people objects from an active directory server and update our DB via HTTP API",
+  "main": "app.js",
+  "author": "Keith Tracy",
+  "dependencies": {    
+	"ldapjs": "^1.0.1",
+    "request": "^2.79.0"
+  }
+}
